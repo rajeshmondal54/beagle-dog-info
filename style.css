@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.top-section {
+    padding: 20px;
+    background-color: #f8f8f8;
+    text-align: center;
+}
+
+.image-section {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.beagle-image {
+    height: 100px; /* Set the desired height */
+    width: 200px;  /* Set the desired width */
+}
+
+.trivia-section {
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+.trivia-section ol {
+    list-style-type: decimal;
+    padding-left: 40px;
+}
+
+.trivia-section li {
+    margin-bottom: 10px;
+}
+
+.trivia-section a {
+    color: blue;
+    text-decoration: underline;
+}
